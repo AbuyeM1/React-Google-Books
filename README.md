@@ -32,9 +32,10 @@ This Google Books Search App to allow Users to search and save books. When a use
 - Bootstrap
 - JavaScript
 - CSS
+- NodeJs
 - Express
 - Axios
-- Mongoose
+- MongoDB
 - JSX
 
 ## Code Snippet
