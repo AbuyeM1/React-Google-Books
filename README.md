@@ -24,7 +24,7 @@ This Google Books Search App to allow Users to search and save books. When a use
 
 ## Deployed Link
 
-- [Herokulink] (https://react-googlebooksapi-search.herokuapp.com/)
+- [Heroku Deploy](https://react-googlebooksapi-search.herokuapp.com/)
 
 ## Technonlogy Use
 
@@ -59,7 +59,7 @@ This Google Books Search App to allow Users to search and save books. When a use
         .catch(err => res.status(422).json(err));
     }
 
-};
+     };
 
 ## License
 
@@ -69,7 +69,7 @@ This Google Books Search App to allow Users to search and save books. When a use
 
 1.  Abuye Mamuye
 
-- [GitHub] (https://github.com/AbuyeM1)
+- [GitHub](https://github.com/AbuyeM1)
 
 - [LinkedIn](https://www.linkedin.com/in/abuye-mamuye-5a49921b0/)
 
